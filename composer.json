@@ -1,5 +1,5 @@
 {
-    "name": "bis2arch/varien",
+    "name": "bis2arch/unserialize",
     "type": "library",
     "license": "OSL-3.0",
     "minimum-stability": "dev",
@@ -7,9 +7,5 @@
         "classmap": [
             "src/"
         ]
-    },
-    "require": {
-        "phpseclib/phpseclib": "*",
-        "bis2arch/zend":"*"
     }
 }
